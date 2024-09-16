@@ -1,3 +1,9 @@
+#Python
+__pycache__/
+.idea
+.venv
+venv
+
 # Prerequisites
 *.d
 
