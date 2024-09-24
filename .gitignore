@@ -36,3 +36,5 @@ venv
 *.exe
 *.out
 *.app
+
+.vscode
