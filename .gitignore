@@ -3,6 +3,7 @@ __pycache__/
 .idea
 .venv
 venv
+.vscode
 
 # Prerequisites
 *.d
@@ -36,5 +37,3 @@ venv
 *.exe
 *.out
 *.app
-
-.vscode
